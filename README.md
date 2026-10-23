@@ -1,21 +1,21 @@
 <div align="center">
 
 <!-- BANNER ANIMADO -->
-![header](https://itextglow.vercel.app/api/banner?text=SANTIAGO%20RIBECCA&sub=%5BBackend%20%C2%B7%20Full-Stack%20%C2%B7%20Data%5D&font=Press+Start+2P&bg1=0a0015&bg2=1e0030&t1=e040fb&t2=7c4dff&sc=a877b1&size=48&subsize=16&width=960&align=center&transparent=0&pattern=dots&patcolor=ffffff&patop=10&animate=glow&shadow=000000&shadowblur=3&shadowx=0&shadowy=3)
+![header](https://itextglow.vercel.app/api/banner?text=SANTIAGO%20RIBECCA&sub=%5BBackend%20%C2%B7%20Full-Stack%20%C2%B7%20Data%5D&font=Press+Start+2P&bg1=f3e4cb&bg2=ead3ad&t1=a32f1a&t2=e84d31&sc=4d2e1a&size=48&subsize=16&width=960&align=center&transparent=0&pattern=dots&patcolor=9f8253&patop=15&animate=glow&shadow=9f8253&shadowblur=2&shadowx=0&shadowy=3)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 <!-- TEXTO ANIMADO -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=B550FF&center=true&vCenter=true&width=900&lines=Bienvenido+a+mi+perfil!+%F0%9F%91%8B;Backend+con+Java+%2F+Spring+Boot+%E2%98%95;Full-stack+con+React+y+TypeScript+%F0%9F%9A%80;Escribiendo+un+emulador+de+NES+en+Go+%F0%9F%8E%AE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A32F1A&center=true&vCenter=true&width=900&lines=Bienvenido+a+mi+perfil!+%F0%9F%91%8B;Backend+con+Java+%2F+Spring+Boot+%E2%98%95;Full-stack+con+React+y+TypeScript+%F0%9F%9A%80;Escribiendo+un+emulador+de+NES+en+Go+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SRibecca&style=for-the-badge&color=7c4dff&label=VISITAS)
-![GitHub followers](https://img.shields.io/github/followers/SRibecca?style=for-the-badge&color=e040fb&labelColor=0a0015&label=SEGUIDORES)
+![Profile Views](https://komarev.com/ghpvc/?username=SRibecca&style=for-the-badge&color=a32f1a&label=VISITAS)
+![GitHub followers](https://img.shields.io/github/followers/SRibecca?style=for-the-badge&color=a8611f&labelColor=4d2e1a&label=SEGUIDORES)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium-Light%20Skin%20Tone.png" alt="Technologist" width="50" height="50" /> Sobre mí
 
@@ -28,7 +28,7 @@ idiomas     : [ Español (nativo), Inglés (avanzado) ]
 setup       : Arch Linux + Omarchy 🐧
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="Hammer and Pick" width="50" height="50" /> Tecnologías
 
@@ -44,7 +44,7 @@ setup       : Arch Linux + Omarchy 🐧
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="50" height="50" /> Proyectos
 
@@ -56,44 +56,45 @@ setup       : Arch Linux + Omarchy 🐧
 | 🔨 **Subaspedia** | App de subastas en tiempo real, serverless y con tipado de extremo a extremo | React Native · Hono · Cloudflare Workers · Durable Objects |
 | 🎟️ **Passpedia** | Marketplace de entradas con API REST por capas y autorización por roles | Java 21 · Spring Security · MySQL · React · Redux |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="50" height="50" /> Estadísticas
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SRibecca&show_icons=true&count_private=true&hide_border=true&bg_color=0a0015&title_color=e040fb&icon_color=7c4dff&text_color=c9b8e0" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRibecca&layout=compact&hide_border=true&bg_color=0a0015&title_color=e040fb&text_color=c9b8e0" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SRibecca&show_icons=true&count_private=true&hide_border=true&bg_color=f3e4cb&title_color=a32f1a&icon_color=e84d31&text_color=4d2e1a" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRibecca&layout=compact&hide_border=true&bg_color=f3e4cb&title_color=a32f1a&text_color=4d2e1a" alt="Top Languages" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="./assets/divider.svg" alt="" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png" alt="Crown" width="50" height="50" /> Contribuciones en 3D
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="50" height="50" /> Contribuciones
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <img alt="Contribuciones en 3D" src="./profile-3d-contrib/profile-green-animate.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SRibecca/SRibecca/output-pacman/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SRibecca/SRibecca/output-pacman/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man comiéndose mis contribuciones" src="https://raw.githubusercontent.com/SRibecca/SRibecca/output-pacman/pacman-contribution-graph.svg" />
 </picture>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="50" height="50" /> Contacto
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7c4dff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-ribecca)
-[![Email](https://img.shields.io/badge/Email-e040fb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ribeccasantiago@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-a32f1a?style=for-the-badge&logo=linkedin&logoColor=f3e4cb)](https://www.linkedin.com/in/santiago-ribecca)
+[![Email](https://img.shields.io/badge/Email-a8611f?style=for-the-badge&logo=gmail&logoColor=f3e4cb)](mailto:ribeccasantiago@gmail.com)
 
 </div>
 
 <div align="center">
 
 <!-- OLA DEL PIE (mismos colores que el banner) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0015,50:7c4dff,100:e040fb&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f3e4cb,50:e48e3e,100:a32f1a&height=120&section=footer"/>
 
 </div>

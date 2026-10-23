@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="6" viewBox="0 0 1000 6">
+  <!-- Separador animado con la paleta Akaito -->
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="0" spreadMethod="reflect">
+      <stop offset="0" stop-color="#a32f1a" />
+      <stop offset="0.35" stop-color="#e84d31" />
+      <stop offset="0.7" stop-color="#e48e3e" />
+      <stop offset="1" stop-color="#a8611f" />
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="2000 0" dur="8s" repeatCount="indefinite" />
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="6" rx="3" fill="url(#g)" />
+</svg>
