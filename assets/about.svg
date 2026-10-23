@@ -14,7 +14,7 @@
   <circle cx="22" cy="17" r="6" fill="#a32f1a" />
   <circle cx="42" cy="17" r="6" fill="#e48e3e" />
   <circle cx="62" cy="17" r="6" fill="#a8611f" />
-  <text x="450" y="22" text-anchor="middle" class="t">Santiago Ribecca</text>
+  <text x="450" y="22" text-anchor="middle" class="t"><tspan class="k">santiago@omarchy</tspan><tspan class="p">:</tspan><tspan class="l">~</tspan><tspan class="v">$ whoami</tspan></text>
 
   <text x="28" y="72"><tspan class="k">nombre</tspan><tspan class="p" x="135">: </tspan><tspan class="v">Santiago Ribecca</tspan></text>
   <text x="28" y="102"><tspan class="k">ubicación</tspan><tspan class="p" x="135">: </tspan><tspan class="v">Buenos Aires, Argentina</tspan></text>
