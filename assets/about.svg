@@ -1,4 +1,4 @@
-<svg xml:space="preserve" xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250">
   <!-- Tarjeta "Sobre mí" estilo terminal con la paleta Akaito -->
   <style>
     text { font-family: ui-monospace, SFMono-Regular, "JetBrains Mono", Menlo, Consolas, monospace; font-size: 16px; }
@@ -14,12 +14,12 @@
   <circle cx="22" cy="17" r="6" fill="#a32f1a" />
   <circle cx="42" cy="17" r="6" fill="#e48e3e" />
   <circle cx="62" cy="17" r="6" fill="#a8611f" />
-  <text x="450" y="22" text-anchor="middle" class="t">sobre-mi.yaml</text>
+  <text x="450" y="22" text-anchor="middle" class="t">Santiago Ribecca</text>
 
-  <text x="28" y="72"><tspan class="k">nombre    </tspan><tspan class="p">: </tspan><tspan class="v">Santiago Ribecca</tspan></text>
-  <text x="28" y="102"><tspan class="k">ubicación </tspan><tspan class="p">: </tspan><tspan class="v">Buenos Aires, Argentina</tspan></text>
-  <text x="28" y="132"><tspan class="k">estudios  </tspan><tspan class="p">: </tspan><tspan class="v">Ingeniería en Informática @ UADE (4.º año)</tspan></text>
-  <text x="28" y="162"><tspan class="k">intereses </tspan><tspan class="p">: [ </tspan><tspan class="l">Backend</tspan><tspan class="p">, </tspan><tspan class="l">Arquitectura de software</tspan><tspan class="p">, </tspan><tspan class="l">Análisis de datos</tspan><tspan class="p">, </tspan><tspan class="l">Emulación</tspan><tspan class="p"> ]</tspan></text>
-  <text x="28" y="192"><tspan class="k">idiomas   </tspan><tspan class="p">: [ </tspan><tspan class="l">Español (nativo)</tspan><tspan class="p">, </tspan><tspan class="l">Inglés (avanzado)</tspan><tspan class="p"> ]</tspan></text>
-  <text x="28" y="222"><tspan class="k">setup     </tspan><tspan class="p">: </tspan><tspan class="v">Arch Linux + Omarchy</tspan></text>
+  <text x="28" y="72"><tspan class="k">nombre</tspan><tspan class="p" x="135">: </tspan><tspan class="v">Santiago Ribecca</tspan></text>
+  <text x="28" y="102"><tspan class="k">ubicación</tspan><tspan class="p" x="135">: </tspan><tspan class="v">Buenos Aires, Argentina</tspan></text>
+  <text x="28" y="132"><tspan class="k">estudios</tspan><tspan class="p" x="135">: </tspan><tspan class="v">Ingeniería en Informática @ UADE (4.º año)</tspan></text>
+  <text x="28" y="162"><tspan class="k">intereses</tspan><tspan class="p" x="135">: [ </tspan><tspan class="l">Backend</tspan><tspan class="p">, </tspan><tspan class="l">Arquitectura de software</tspan><tspan class="p">, </tspan><tspan class="l">Análisis de datos</tspan><tspan class="p">, </tspan><tspan class="l">Emulación</tspan><tspan class="p"> ]</tspan></text>
+  <text x="28" y="192"><tspan class="k">idiomas</tspan><tspan class="p" x="135">: [ </tspan><tspan class="l">Español (nativo)</tspan><tspan class="p">, </tspan><tspan class="l">Inglés (avanzado)</tspan><tspan class="p"> ]</tspan></text>
+  <text x="28" y="222"><tspan class="k">setup</tspan><tspan class="p" x="135">: </tspan><tspan class="v">Arch Linux + Omarchy</tspan></text>
 </svg>

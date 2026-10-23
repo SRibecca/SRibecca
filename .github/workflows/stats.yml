@@ -1,0 +1,30 @@
+name: generate stats cards
+
+on:
+    schedule: # todos los días a las 06:00 UTC
+        - cron: '0 6 * * *'
+    workflow_dispatch:
+
+jobs:
+    generate:
+        permissions:
+            contents: write
+        runs-on: ubuntu-latest
+        timeout-minutes: 5
+
+        steps:
+            - uses: actions/checkout@v5
+
+            - name: generate stats SVGs
+              run: python3 scripts/stats.py
+              env:
+                  STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+
+            - name: commit & push
+              run: |
+                  git config user.name github-actions
+                  git config user.email github-actions@github.com
+                  git add assets/stats.svg assets/langs.svg
+                  if git commit -m "stats: actualizar tarjetas"; then
+                    git push
+                  fi
