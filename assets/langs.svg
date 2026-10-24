@@ -10,15 +10,15 @@ text{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,mon
 <text x="24" y="38" class="title">Lenguajes</text>
 <clipPath id="bar"><rect x="24" y="58" width="397" height="10" rx="5"/></clipPath>
 <g clip-path="url(#bar)"><rect x="24" y="58" width="397" height="10" fill="#161b22"/>
-<rect x="24.00" y="58" width="150.98" height="10" fill="#e84d31"/>
-<rect x="174.48" y="58" width="132.42" height="10" fill="#e48e3e"/>
-<rect x="306.40" y="58" width="69.32" height="10" fill="#d89b55"/>
-<rect x="375.22" y="58" width="18.04" height="10" fill="#a8611f"/>
-<rect x="392.76" y="58" width="15.61" height="10" fill="#a32f1a"/>
-<rect x="407.87" y="58" width="13.63" height="10" fill="#9f8253"/>
+<rect x="24.00" y="58" width="150.84" height="10" fill="#e84d31"/>
+<rect x="174.34" y="58" width="132.67" height="10" fill="#e48e3e"/>
+<rect x="306.51" y="58" width="69.26" height="10" fill="#d89b55"/>
+<rect x="375.26" y="58" width="18.02" height="10" fill="#a8611f"/>
+<rect x="392.78" y="58" width="15.59" height="10" fill="#a32f1a"/>
+<rect x="407.88" y="58" width="13.62" height="10" fill="#9f8253"/>
 </g>
 <rect x="24" y="90" width="10" height="10" fill="#e84d31"/><text x="42" y="100">TypeScript</text><text x="209" y="100" text-anchor="end" class="muted">37.9%</text>
-<rect x="229" y="90" width="10" height="10" fill="#e48e3e"/><text x="247" y="100">Python</text><text x="414" y="100" text-anchor="end" class="muted">33.2%</text>
+<rect x="229" y="90" width="10" height="10" fill="#e48e3e"/><text x="247" y="100">Python</text><text x="414" y="100" text-anchor="end" class="muted">33.3%</text>
 <rect x="24" y="120" width="10" height="10" fill="#d89b55"/><text x="42" y="130">Java</text><text x="209" y="130" text-anchor="end" class="muted">17.3%</text>
 <rect x="229" y="120" width="10" height="10" fill="#a8611f"/><text x="247" y="130">C++</text><text x="414" y="130" text-anchor="end" class="muted">4.4%</text>
 <rect x="24" y="150" width="10" height="10" fill="#a32f1a"/><text x="42" y="160">JavaScript</text><text x="209" y="160" text-anchor="end" class="muted">3.8%</text>
