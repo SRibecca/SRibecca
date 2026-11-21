@@ -10,14 +10,14 @@ text{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono',Menlo,Consolas,mon
 <text x="24" y="38" class="title">Lenguajes</text>
 <clipPath id="bar"><rect x="24" y="58" width="397" height="10" rx="5"/></clipPath>
 <g clip-path="url(#bar)"><rect x="24" y="58" width="397" height="10" fill="#161b22"/>
-<rect x="24.00" y="58" width="136.72" height="10" fill="#e84d31"/>
-<rect x="160.22" y="58" width="114.04" height="10" fill="#e48e3e"/>
-<rect x="273.75" y="58" width="106.67" height="10" fill="#d89b55"/>
-<rect x="379.93" y="58" width="15.76" height="10" fill="#a8611f"/>
-<rect x="395.19" y="58" width="14.36" height="10" fill="#a32f1a"/>
-<rect x="409.05" y="58" width="12.45" height="10" fill="#9f8253"/>
+<rect x="24.00" y="58" width="137.13" height="10" fill="#e84d31"/>
+<rect x="160.63" y="58" width="113.85" height="10" fill="#e48e3e"/>
+<rect x="273.98" y="58" width="106.44" height="10" fill="#d89b55"/>
+<rect x="379.92" y="58" width="15.72" height="10" fill="#a8611f"/>
+<rect x="395.14" y="58" width="14.33" height="10" fill="#a32f1a"/>
+<rect x="408.97" y="58" width="12.53" height="10" fill="#9f8253"/>
 </g>
-<rect x="24" y="90" width="10" height="10" fill="#e84d31"/><text x="42" y="100">TypeScript</text><text x="209" y="100" text-anchor="end" class="muted">34.3%</text>
+<rect x="24" y="90" width="10" height="10" fill="#e84d31"/><text x="42" y="100">TypeScript</text><text x="209" y="100" text-anchor="end" class="muted">34.4%</text>
 <rect x="229" y="90" width="10" height="10" fill="#e48e3e"/><text x="247" y="100">Java</text><text x="414" y="100" text-anchor="end" class="muted">28.6%</text>
 <rect x="24" y="120" width="10" height="10" fill="#d89b55"/><text x="42" y="130">Python</text><text x="209" y="130" text-anchor="end" class="muted">26.7%</text>
 <rect x="229" y="120" width="10" height="10" fill="#a8611f"/><text x="247" y="130">C++</text><text x="414" y="130" text-anchor="end" class="muted">3.8%</text>
